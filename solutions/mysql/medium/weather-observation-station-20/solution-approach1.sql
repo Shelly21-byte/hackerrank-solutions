@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-09-07, 09:04 p.m.
+-- Submitted   2026-09-07, 09:06 p.m.
 -- ──────────────────────────────────────────────────
 
 SET @r = 0;
