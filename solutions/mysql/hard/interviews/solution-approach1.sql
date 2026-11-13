@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-09-06, 06:46 p.m.
+-- Submitted   2026-11-13, 03:00 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT
